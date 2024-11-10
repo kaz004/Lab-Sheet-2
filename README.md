@@ -1,4 +1,4 @@
-# Data Structures Lab Sheet 1
+# Data Structures Lab Sheet 2
 
 ## How to Run the Code
 
@@ -6,7 +6,7 @@
     On the terminal, copy and paste the following command
 
    ```bash
-   git clone https://github.com/Aryan-Dot-Dev/Lab-Sheet-2
+   git clone https://github.com/kaz004/Lab-Sheet-2
    ```
    
 2. **Compile the Code**:
