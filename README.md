@@ -12,7 +12,7 @@
 2. **navigate inside the folder**:
    use cd to access all the files inside the folder that is cloned.
    ```bash
-   cd Lab-Sheet-1
+   cd Lab-Sheet-2
    ```
    
 3. **Compile the Code**:
